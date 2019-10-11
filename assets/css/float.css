@@ -3,6 +3,10 @@ body {
   text-align: center;
 }
 
+.topnav {
+  float: left;
+}
+
 h1 {
   float: left;
 }
