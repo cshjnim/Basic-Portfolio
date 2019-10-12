@@ -1,20 +1,22 @@
 
 .box-set {
     position: relative;
-    height: 400px;
+    height: 500px;
   }
   
   .box {
     position: relative;
     width: 150px;
-    height: 150px;
-    border: 2px solid;
+    height: 200px;
+    border: 20px solid;
   }
   
   .box-1 {
     top: 20px;
+    position: relative;
   }
-  
-  .box-2 {
-    left: 40px;
-  }
+    
+
+header {
+  position: relative;
+}

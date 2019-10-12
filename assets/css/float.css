@@ -3,20 +3,10 @@ body {
   text-align: center;
 }
 
-.topnav {
-  float: left;
-}
-
 h1 {
   float: left;
 }
 
-table {
-  float: right;
+img {
+  float: left;
 }
-
-#main-bio,
-  #contact-info,
-  #bio-image {
-    float: center;
-  }
